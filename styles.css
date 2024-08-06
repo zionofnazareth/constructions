@@ -15,6 +15,7 @@ body {
 .container {
     color:yellow;
     font-size: 30px;
+
     
 }
 
@@ -29,15 +30,17 @@ nav ul li {
     display: inline-block;
     padding: 10px 20px;
     list-style: none;
-    font-size: 40px;
+    font-size: 30px;
     border: none;
     border-radius: 2px;
     padding: 5px 12px;
     background-color: yellow;
+    
+    
 }
 
 .price{
-    margin-top: 550px;
+    margin-top: 270px;
     align-items: center;
     color: blue;
     margin-left: 50px;
